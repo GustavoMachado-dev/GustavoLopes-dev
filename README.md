@@ -2,7 +2,7 @@
 ### Estudante de Ciência da Computação e desenvolvedor!
 # 
 ### 📲 Quer entrar em contato comigo? 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-filipi-lopes-machado-88669619a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-filipi-lopes-machado-3770b228a/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavof.lopesmachado@gmail.com)
 
 ![Gustavo Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavolopes-dev&show_icons=true&theme=radical)
