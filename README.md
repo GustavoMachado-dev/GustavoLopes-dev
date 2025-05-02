@@ -21,5 +21,5 @@
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/gustavolopes/)
-- [Email](mailto:gustavolopes@example.com)
+- [LinkedIn](https://www.linkedin.com/in/gustavomachado-dev)
+- [Email](mailto:gustavof.docentemachado@gmail.com)
